@@ -5,3 +5,6 @@ __pycache__/
 .env
 .aws/
 reports/*.json
+
+# Generated AWS cost reports
+reports/
